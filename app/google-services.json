@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892691577831",
+    "project_id": "fir-tp-406e0",
+    "storage_bucket": "fir-tp-406e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892691577831:android:2d5bcd59cdfde61e381b42",
+        "android_client_info": {
+          "package_name": "com.example.firebasetp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlcxtDDy41tncX97SKGzCMmifn1NmJv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
