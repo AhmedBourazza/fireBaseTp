@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
         googleSignInBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                FirebaseAuth.getInstance().signOut(); // Sign out the Firebase user
+                client.signOut();
                 Intent i = client.getSignInIntent();
                 startActivityForResult(i,1234);
             }
