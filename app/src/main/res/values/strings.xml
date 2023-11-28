@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">fireBaseTP</string>
-    <string name="default_web_client_id">    892691577831-3nf8en1616j0p4oo1mqqt2js0em0ap07.apps.googleusercontent.com
-</string>
+    <string name="default_web_client_id">892691577831-3nf8en1616j0p4oo1mqqt2js0em0ap07.apps.googleusercontent.com</string>
 
 </resources>
